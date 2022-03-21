@@ -2985,7 +2985,7 @@
   },
   {
     "id": "Dump recent logs instead of tailing",
-    "translation": "Vider les journaux récents ou lieu d'afficher les dernières lignes"
+    "translation": "Vider les journaux récents au lieu d'afficher les dernières lignes"
   },
   {
     "id": "ENVIRONMENT VARIABLE GROUPS",
